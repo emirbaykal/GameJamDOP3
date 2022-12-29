@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/New.unity
+    guid: 037c22ed460c114499dfce82865bf82c
+  - enabled: 1
+    path: Assets/Scenes/Kaynak.unity
+    guid: e79a37a1e9eb4cc43b4cc159e2c9d0c3
+  - enabled: 1
+    path: Assets/Scenes/insan.unity
+    guid: ea7a845bace1f034fbc3644a6534fd06
   m_configObjects: {}

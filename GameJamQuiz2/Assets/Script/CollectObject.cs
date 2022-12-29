@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class CollectObject : MonoBehaviour
 {
-    private int astronaut;
-    private int ingot;
+    public int astronaut;
+    public int ingot;
     void Start()
     {
         
